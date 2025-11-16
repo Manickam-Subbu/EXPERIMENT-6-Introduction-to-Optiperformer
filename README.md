@@ -70,22 +70,26 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+![WhatsApp Image 2025-11-12 at 13 43 35_b50e4112](https://github.com/user-attachments/assets/afe48856-3cf9-4aaf-a81a-e2199f2ed272)
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/6c718314-27c3-47c4-b61f-47ae479fb45a" />
+
+<img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/429c71bb-e98c-4f31-8b4b-1a5a310b029c" />
+
+<img width="537" height="430" alt="image" src="https://github.com/user-attachments/assets/0e87fd69-15e5-422c-82cc-ab0ad28d4dc2" />
+
+<img width="271" height="178" alt="image" src="https://github.com/user-attachments/assets/a97f0685-9876-4dac-887e-06cf108f7331" />
+
+
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+hence the optical performace of fiber cable studiend and proved at different rates.
+
