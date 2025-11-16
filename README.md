@@ -74,19 +74,13 @@ The system includes:
 
 ---
 
+## Block Diagram
+
+<img width="744" height="427" alt="image" src="https://github.com/user-attachments/assets/03bc0a41-a555-4c34-ac88-e3496c3a00ce" />
+
 ## Graphs
 
-<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/6c718314-27c3-47c4-b61f-47ae479fb45a" />
-
-<img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/429c71bb-e98c-4f31-8b4b-1a5a310b029c" />
-
-<img width="537" height="430" alt="image" src="https://github.com/user-attachments/assets/0e87fd69-15e5-422c-82cc-ab0ad28d4dc2" />
-
-<img width="271" height="178" alt="image" src="https://github.com/user-attachments/assets/a97f0685-9876-4dac-887e-06cf108f7331" />
-
-
-
-
+<img width="728" height="785" alt="image" src="https://github.com/user-attachments/assets/f2d98e71-d102-455a-b643-25848059cd90" />
 ---
 
 ## RESULT
